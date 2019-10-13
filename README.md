@@ -1,4 +1,4 @@
 # hello-earsketch
 Python - Earsketch music experiments
 
-Audio demo: https://soundcloud.com/meera-sundar/hello-earsketch
+Audio demo: https://soundcloud.com/meerasndr/hello-earsketch
